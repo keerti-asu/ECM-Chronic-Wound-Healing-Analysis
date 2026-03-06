@@ -1,10 +1,5 @@
 # ECM-Chronic-Wound-Healing-Analysis
 Healthcare data analysis of ECM therapies for chronic wound healing using Python, Pandas, SciPy, and data visualization.
-# ECM-Based Chronic Wound Healing Analysis
-
-Author
-Keerti Upadhyay
-MS Biological Data Science (Bioinformatics) – Arizona State University
 
 ## Project Overview
 
